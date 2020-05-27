@@ -1,0 +1,5 @@
+first create a database name eshop. Fisrt import sql file to mysql using import option.
+run the project localhost/ESHOP/public  
+for admin portion localhost/ESHOP/Public/adminlogin
+
+default admin email ppcctulan@gmail.com  password 123456
